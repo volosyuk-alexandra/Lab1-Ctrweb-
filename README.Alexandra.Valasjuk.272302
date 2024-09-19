@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 import java.util.Scanner;
 
 public class HelloUser {
@@ -16,3 +17,19 @@ public class HelloUser {
         scanner.close();
     }
 }
+=======
+public class SumNumbers {
+    public static void main(String[] args) {
+        // Определяем два чfghjklkbvcvbjklkjvисла
+        int num1 = 5;
+        int num2 = 7;
+        
+        // Вычисляем сумму
+        int sum = num1 + num2;
+        
+        // Выводим результат
+        System.out.println("Сумма " + num1 + " и " + num2 + " равна " + sum);
+    }
+}
+
+>>>>>>> 9b84f3611c8024197a567ab995066f63f2b6451a
